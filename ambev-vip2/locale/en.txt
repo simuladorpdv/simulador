@@ -1,0 +1,131 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Ambev 360 PDV VIP
+
+## Skin
+
+### Multiline Text
+HTMLText_6EA83171_5ADB_9311_41C5_1505393C5CCD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Barlow Bold';"><B>Pontuação: {{quiz.score}}/{{quiz.global.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_D1BA4420_5A4B_912E_41AA_DB37EC6AAFF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Barlow Bold';"><B>Pontuação: {{quiz.score}}/{{quiz.global.score.total}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_0A320BD2_2CDB_42D6_41BB_10EB2B00ADFE.label = Photo Album quiz 2
+album_0A320BD2_2CDB_42D6_41BB_10EB2B00ADFE_0.label = quiz 2
+album_0A333538_2CD9_C752_41B8_B3CE37C3CA4E.label = Photo Album quiz 3
+album_0A333538_2CD9_C752_41B8_B3CE37C3CA4E_0.label = quiz 3
+album_0A43A123_2CE7_DF76_41BA_50A321521187.label = Photo Album quiz 5
+album_0A43A123_2CE7_DF76_41BA_50A321521187_0.label = quiz 5
+album_0A5CE550_2CD8_C7D2_41A4_EC1F285AFD24.label = Photo Album quiz 4
+album_0A5CE550_2CD8_C7D2_41A4_EC1F285AFD24_0.label = quiz 4
+album_0A79B3C6_2CE9_C33E_4192_BF1D289ADBFE.label = Photo Album quiz 6
+album_0A79B3C6_2CE9_C33E_4192_BF1D289ADBFE_0.label = quiz 6
+album_0B3AA958_2CD8_CFD2_41C4_FAA65C957064.label = Photo Album quiz 1
+album_0B3AA958_2CD8_CFD2_41C4_FAA65C957064_0.label = quiz 1
+album_0BB89AF9_2CEB_42D2_41B0_C1C9A7D7A5BD.label = Photo Album quiz 7
+album_0BB89AF9_2CEB_42D2_41B0_C1C9A7D7A5BD_0.label = quiz 7
+album_0BC9B7FE_2CEB_42CE_41C3_49824D3D178C.label = Photo Album quiz 8
+album_0BC9B7FE_2CEB_42CE_41C3_49824D3D178C_0.label = quiz 8
+album_3CB8C6E5_2C27_C2F2_419D_58E750B33193.label = Photo Album intro 360 2
+album_3CB8C6E5_2C27_C2F2_419D_58E750B33193_0.label = intro 360 2
+media_012BAE14_2C68_C552_41A6_FD1A0B491BC2.label = 360 VIP - FUNDO FINAL_1
+media_26AF5CDD_2C27_46D2_41C0_C5C53340449B.label = 360 VIP - Calçada
+media_4805954E_59F8_F372_41BF_361F67A31956.label = 360 VIP - Cena 2 - RUA
+media_54BD9C42_59D8_B172_41C5_C4A0D416092D.label = 360 VIP - Cena 15 - garçom entrega comida
+media_558A1EDA_59C9_9112_41AC_562E8B624E84.label = 360 VIP - Cena 11 - Graçom choop
+media_55D22AC2_59CF_7172_41BB_2B5584436E57.label = 360 VIP - Cena 23 - TV
+media_55D3D31C_59CF_B716_41D4_80644830B3C5.label = 360 VIP - Cena 27 - celular
+media_55D84DFE_59CF_9312_416F_BBB99251BC58.label = 360 VIP - Cena 31 - maquina pedido
+media_55EC8375_59C8_9716_41D3_903615955D08.label = 360 VIP - Cena 19 - cardápio_garçon
+media_55F7E508_59C9_90FF_4194_EBF1818D316B.label = 360 VIP - Cena 07 chopeira
+panorama_0ABA58AE_2C59_4D4E_41BB_33691CAFC072.label = Fundo Report
+video_23107D0F_5A7B_70F2_41C2_2D2F70ED343A.label = Ambev - PDV 360 VIP - Cena 33 Correto
+video_237B1D69_5A78_B33E_4181_8A5A03052DBF.label = Ambev - PDV 360 VIP - Cena 34 Errado
+video_24B7BF7A_5A48_AF12_41D6_DD7EE2B22819.label = Ambev - PDV 360 VIP - Cena 25 Correto
+video_2670079E_2C2B_C34E_41C2_464CA2E60718.label = Ambev - PDV 360 VIP - Cena 18 Errado
+video_267041C7_2C2B_FF3E_41C3_4F88A6286DAF.label = Ambev - PDV 360 VIP - Cena 22 Errado
+video_26708224_2C2B_DD72_41AB_912489DC4DFD.label = Ambev - PDV 360 VIP - Cena 17 Correto
+video_2670BD58_2C2B_C7D2_419B_192BC6E31697.label = Ambev - PDV 360 VIP - Cena 14 Errado
+video_2670FCB2_2C2B_C556_41C3_64A8444D2B0F.label = Ambev - PDV 360 VIP - Cena 21 Correto
+video_26713478_2C2B_C5D2_41BE_000CB2945D13.label = Ambev - PDV 360 VIP - Cena 10 Errado
+video_26713A64_2C2B_4DF2_41C2_AD0B58A47E32.label = Ambev - PDV 360 VIP - Cena 06 Errado
+video_267148A3_2C2B_CD76_41A6_157849116C1F.label = Ambev - PDV 360 VIP - Cena 13 Correto
+video_2671E02E_2C2B_BD4E_41C1_929FF8298FED.label = Ambev - PDV 360 VIP - Cena 09 Correto
+video_26731582_2C2B_4736_41BB_EFD1E4603352.label = Ambev - PDV 360 VIP - Cena 35 parabens
+video_2673262B_2C2B_C576_41BD_66396B43C751.label = Ambev - PDV 360 VIP - Cena 30 Errado
+video_2673812F_2C2B_DF4E_41B7_2C3952B642A0.label = Ambev - PDV 360 VIP - Cena 29 Correto
+video_26C78811_5A49_70EE_41BF_8C69DC8A36AF.label = Ambev - PDV 360 VIP - Cena 26 Errado
+video_278843E3_2C2B_42F6_41C1_05214F4E96BF.label = Ambev - PDV 360 VIP - Cena 05 Correto
+
+## E-Learning
+
+### Answer
+questionOption_08B4F025_2C68_BD72_41B8_65487BC73D50.text = O cliente tem internet
+questionOption_09328280_2C69_DD32_417D_8F3C11432430.text = O cliente tem entregador próprio
+questionOption_09535715_2C69_4352_4181_986B695B29E0.text = O cliente possui algum sistema de delivery, tipo Ifood ou Rappi e entrega própria
+questionOption_0C1930F8_2C67_BED2_41C0_9E801F4280B3.text = Expor portfólio amplo
+questionOption_0C32904D_2C67_FD32_41B1_611E713AA5CB.text = Expor portfólio amplo, com preço correto e sugestões de cervejas com pratos da casa
+questionOption_0C7B4315_2C67_435D_41BB_15CAB18B27DF.text = Não mostrar o preço
+questionOption_0D07E7A8_2C69_4372_41C2_C61C9A9FDD9E.text = Bingos
+questionOption_0D2442E7_2C69_C2FE_41B4_21F1B1DDB883.text = Sorteios
+questionOption_0D719EE1_2C68_C2F2_419B_1B200BBDEBAC.text = Transmissão de jogos e shows (ao vivo ou transmitidos)
+questionOption_0F4875B0_2C69_4752_41B8_D01CCE4A6FCB.text = Não, esse espaço é do cliente e não podemos interferir
+questionOption_0F652CC1_2C69_4532_41BF_8FAA200845B2.text = Sim, mas é complicado
+questionOption_0F714AC0_2C69_4D32_41B1_5DB4D07968AB.text = Sim, podemos divulgar nossas marcas nas redes sociais do PDV para ajudá-lo a atrair e fidelizar os consumidores 
+questionOption_3188E866_2C69_CDFE_41BD_12D71CA803BC.text = Folhetos, bandejas
+questionOption_31C60812_2C69_CD56_41C5_4356CCFC95B0.text = Cervegela, balde, copos, tabletent
+questionOption_31E051D3_2C69_FED6_41A0_1447688FA643.text = Cervegela
+questionOption_3327D8E4_2C69_4EF2_41C3_7AA14CF96218.text = Sugerindo e explicando os nossos produtos
+questionOption_334F871D_2C69_C352_419E_A425EA0DB10F.text = Usando avental ou uniforme com nossa logomarca
+questionOption_33777D20_2C69_C772_41C5_15FC519355CF.text = Usando abridores e acessórios com nossas marcas
+questionOption_33DE9F4A_2C69_4336_41BA_1757EC56DAEC.text = Todas as anteriores
+questionOption_3609CD69_2C59_C7F2_41B0_9707CBACF0E8.text = Quadros nas paredes
+questionOption_36AD32D9_2C58_C2D2_41C4_33D903F25E9C.text = Chopeiras
+questionOption_36FEA58E_2C58_C74E_418E_59408B32AD00.text = Atrás do bar e nos coolers
+questionOption_374F85AD_2C58_C772_41BB_BD683CE54948.text =  Todas as opções anteriores
+questionOption_3F29AE88_2C2F_4532_41B9_E4FE143BEC59.text = Não tem importância para o nosso negócio
+questionOption_3F4E659C_2C2F_C752_41BA_60E28516D53A.text = Não impacta na opção do consumidor de entrar ou consumir os nossos produtos
+questionOption_3FF6FADB_2C2F_42D6_41A2_8D935B33E667.text = É um primeiro contato  do consumidor que pode ser decisivo para o que ele vai consumir no PDV
+
+### Qualification
+calification_42EC51F3_59CF_9312_41BB_64AE824A331A.text = Você pode melhorar, hein? A sugestão é você fazer novamente o treinamento, ok?
+calification_42EC61F3_59CF_9312_41D4_7A73312FD02D.text = Mandou bem, hein? Mostrou que é um craque do PDV 360! Obrigado por sua participação!
+
+### Score Name
+score1.label = Pontos
+
+### Question
+question_08F7C884_2C6F_4D32_41C2_26841B1D4C83.title = Ainda temos que falar dos serviços de delivery, que hoje em dia são muito importantes para um PDV ! Verifique se:
+question_0D4E35F5_2C68_C6D2_419B_7664F21A48E0.title = Os eventos especiais nos PDVs Vips abrem uma ótima oportunidade de parceria para a Ambev. Você sabe dizer que tipo de ocasiões podem render parcerias?
+question_0E8621A3_2C68_FF76_41B6_64567B38DB43.title = Vamos falar de redes sociais? Elas são um canal fundamental para o cliente divulgar seus serviços. Será que podemos aproveitar esse espaço?
+question_31191CC1_2C69_4532_41C1_A2F18DC1C18B.title = As mesas dos clientes também são ótimas para a gente executar materiais funcionais e que exponham nossas marcas. Você sabe dizer quais são os mais indicados? 
+question_329F8061_2C69_7DF2_41C4_900385AB7A9D.title = Os garçons também podem ajudar na divulgação das nossas marcas. Como eles podem nos ajudar?
+question_33AE38AC_2C68_CD72_41B0_F5283902D033.title = O cardápio, seja ele digital ou impresso, é outro ponto excelente para a gente divulgar nossos produtos. Ele tem que dar destaque para nossas marcas. E o que mais? 
+question_367ED336_2C59_C35E_41C5_E34520B4FCA4.title = Tirando os materiais que estão nas mesas, você consegue identificar os locais mais indicados para nossas marcas estarem presentes? 
+question_3E46FE28_2C28_C572_41A7_B1594542F51D.title = Sobre a entrada e parte externa do PDV, você considera que:
+
+### Question Screen
+quizQuestion_39A48A1E_2C28_CD4E_41BC_8163A4662056.ok = OK
+
+### Report Screen
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.completion = Concluídos
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.downloadCSV = Download .csv
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.elapsedTime = Time
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.items = Items Found
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.questions = Questões
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.questionsCorrect = Corretas
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.questionsIncorrect = Incorretas
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.repeat = RECOMEÇAR
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.submitToLMS = Enviar
+quizScore_39A6BA1E_2C28_CD4E_41A1_E2A61E77F6A0.title = PONTUAÇÃO
+
+### Timeout Screen
+quizTimeout_39AB6A1E_2C28_CD4E_41B5_4E68A266CDB1.repeat = Repeat
+quizTimeout_39AB6A1E_2C28_CD4E_41B5_4E68A266CDB1.score = View Score
+quizTimeout_39AB6A1E_2C28_CD4E_41B5_4E68A266CDB1.title = - TIMEOUT -

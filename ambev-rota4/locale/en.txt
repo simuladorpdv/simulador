@@ -1,0 +1,131 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 - Ambev AS Rota
+
+## Skin
+
+### Multiline Text
+HTMLText_C51A0E90_EF31_103E_41ED_90AE228DFDF5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Pontuação: {{quiz.score1.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_C51A0E90_EF31_103E_41ED_90AE228DFDF5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Barlow Bold';"><B>{{quiz.score1.</B></SPAN><SPAN STYLE="font-size:13px;font-family:'Barlow Bold';"><B>score</B></SPAN><SPAN STYLE="font-size:12px;font-family:'Barlow Bold';"><B>}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_0EA89C03_18D7_F8D5_416E_A52A0C0FF068.label = Photo Album Ambev - PDV 360 AS Rotaacougue
+album_0EA89C03_18D7_F8D5_416E_A52A0C0FF068_0.label = Ambev - PDV 360 AS Rotaacougue
+album_1B7FFDB7_17D1_FB3D_41AC_E27CE9A836E4.label = Photo Album arte inicial
+album_1B7FFDB7_17D1_FB3D_41AC_E27CE9A836E4_0.label = arte inicial
+album_D9C30E10_FDA2_EE94_41ED_1B382575907F.label = Photo Album Ponto extra
+album_D9C30E10_FDA2_EE94_41ED_1B382575907F_0.label = Ponto extra
+album_DB5DEBF5_FEBF_759C_41C3_26FB1939A2EC.label = Photo Album deposito
+album_DB5DEBF5_FEBF_759C_41C3_26FB1939A2EC_0.label = deposito
+album_DC7456AB_FDBF_3FB4_41DE_26F6CD5E2928.label = Photo Album gondola
+album_DC7456AB_FDBF_3FB4_41DE_26F6CD5E2928_0.label = gondola
+album_DC7B2300_FEBD_F674_41D3_BB02162D6EDD.label = Photo Album Geladeira 2
+album_DC7B2300_FEBD_F674_41D3_BB02162D6EDD_0.label = Geladeira 2
+album_DD00709C_FEBD_D38C_41ED_47AB8AFBC085.label = Photo Album foco
+album_DD00709C_FEBD_D38C_41ED_47AB8AFBC085_0.label = foco
+album_DE1A6682_FDA2_FE74_41E2_682D8ECFA454.label = Photo Album açougue
+album_DE1A6682_FDA2_FE74_41E2_682D8ECFA454_0.label = açougue
+album_E637325E_FDA5_368C_41E4_9940338E07D5.label = Photo Album Geladeira
+album_E637325E_FDA5_368C_41E4_9940338E07D5_0.label = Geladeira
+album_F1D35FBC_E925_A4A9_41D5_BE4BF09976E7.label = Photo Album foto encarte
+album_F1D35FBC_E925_A4A9_41D5_BE4BF09976E7_0.label = foto encarte
+album_FF056055_EA6E_4DB1_41EB_3C9C54368D67.label = Photo Album retornavel
+album_FF056055_EA6E_4DB1_41EB_3C9C54368D67_0.label = retornavel
+media_03D6FCC2_1753_7957_4183_A1587B997AFC.label = 360 AS Rota - Cena 2_1 - Fachada
+media_055BA7C4_1753_D753_4170_7540C92055B6.label = 360 AS Rota - Cena 3 - Panfletos
+media_05A0EB89_1751_7FD5_41AF_CDA0287DF499.label = 360 AS Rota - Cena 27 - Deposito
+media_05A30EA6_1750_D9DF_418F_30C6BDF2B4DE.label = 360 AS Rota - Cena 19 - Acougue
+media_05A3F90D_1751_F8ED_415C_837EF07553B2.label = 360 AS Rota - RUA CENA EXTRA FINAL
+media_05A56977_1751_3B3D_41B2_A898DBDE09B1.label = 360 AS Rota - Cena 31 - Escritorio
+media_05A5B05D_1751_296D_41B0_EC7D8A9A5E53.label = 360 AS Rota - Cena 23 - Geladeira
+media_05ABED72_1753_DB37_41B2_244A2B72235D.label = 360 AS Rota - Cena 07 - retornável
+media_05AE6DA2_1753_5BD7_41B1_5A7583D98301.label = 360 AS Rota - Cena 15 - Gondola
+media_0E0AFBE7_18F3_3F5D_4189_FFF91993DFE0.label = 360 AS Rota - Cena 11_ - Entrada ponto extra opção 2
+media_E3A4EF0F_FDA5_2E8C_41E2_07194CEADF24.label = 360 VIP - FUNDO FINAL
+panorama_C64EB860_EAAA_3D8F_419A_7A9863AFEED0.label = fundo quiz
+panorama_E6F2BA13_E925_AF7F_41D6_D42498F0EAC4.label = Fundo Final
+video_03B0030A_18F3_68D7_41B5_35B12FCB451C.label = Ambev - PDV 360 AS Rota - Cena 13 Correto
+video_0E2CC7AD_18F3_372D_41B5_82376A9C3ECA.label = Ambev - PDV 360 AS Rota - Cena 14 Correto
+video_0E7C6568_18EF_2B53_41B4_309FCA1C0DF0.label = Ambev - PDV 360 AS Rota - Cena 34 Errado
+video_0F7E4919_18EF_F8F5_41AC_42FCDC619845.label = Ambev - PDV 360 AS Rota - Cena 33 Correto
+video_F864902A_E993_65E5_41E0_1D5F9871D069.label = Ambev - PDV 360 AS Rota - Cena 09 Correto
+video_F864B9B9_E993_26E7_41E1_FC63A4E34874.label = Ambev - PDV 360 AS Rota - Cena 06 Errado
+video_F8652466_E993_6E6D_41C5_85B78D95F63C.label = Ambev - PDV 360 AS Rota - Cena 10 Errado
+video_F86553C0_E993_6AA5_41DD_7339CD797A0B.label = Ambev - PDV 360 AS Rota - Cena 17 Correto
+video_F865E95E_E993_665D_41A6_8BEA697F87B2.label = Ambev - PDV 360 AS Rota - Cena 18 Correto
+video_F865FF5C_E993_5A5D_41DD_2554B3407374.label = Ambev - PDV 360 AS Rota - Cena 21 Correto
+video_F8662EB8_E993_3AE5_41D8_BFC4E57D7DC7.label = Ambev - PDV 360 AS Rota - Cena 26 Correto
+video_F8663323_E993_2BEB_41E1_4C56628866CB.label = Ambev - PDV 360 AS Rota - Cena 29 Correto
+video_F86644D2_E993_2EA5_41D7_740D77C191C9.label = Ambev - PDV 360 AS Rota - Cena 22 Correto
+video_F86669D8_E993_26A5_41C9_08F3D3F8E721.label = Ambev - PDV 360 AS Rota - Cena 25 Correto
+video_F866F87B_E993_265B_41EC_AB7845048369.label = Ambev - PDV 360 AS Rota - Cena 30 Errado
+video_F8672721_E993_EBE7_41CD_DF1BCE6D453F.label = Ambev - PDV 360 AS Rota - Cena 35 Parabens
+video_FB7712C8_E993_2AA5_4172_B69D8E43454B.label = Ambev - PDV 360 AS Rota - Cena 05 Correto
+
+## E-Learning
+
+### Answer
+questionOption_C86A66B7_EAAA_D2F1_41E5_F8DB9940CC4C.text = Condições de segurança
+questionOption_C983D7F1_EAAA_3271_41B3_DCDFFAB25DA6.text = Proporção entre cervejas e NABs da Ambev
+questionOption_C99068A4_EAAA_5E97_41E9_177D6E280CE3.text = Disponibilidade e quantidade de SKUs da Ambev e avaliar produtos da concorrência 
+questionOption_CAC562F6_EAAD_D273_41E6_A75DAC0C1166.text = No fundo da Loja, no corredor de bebidas e ao lado dos caixas
+questionOption_CADADD48_EAAE_379F_41E9_952A6E659E82.text = No corredor de salgadinhos, no corredor de bebidas e na entrada da loja
+questionOption_CAF3535B_EAAE_73B1_41D6_5C5B68B94DAD.text = No corredor de bebidas, na entrada da loja e no açougue
+questionOption_CB2A7F97_EAAE_72B1_41E9_8FAA016DC77D.text = Se as bebidas estão geladas, executadas de acordo com o planograma, e corretamente precificadas.
+questionOption_CB42C14D_EAAE_4F91_41DB_B639F0447B5D.text = Se as bebidas estão geladas, corretamente precificadas e se há poça de água ao redor da geladeira
+questionOption_CB614686_EAAD_D293_41E3_770506E78DAB.text = Se as bebidas estão quentes
+questionOption_CE40AD9F_EABF_F6B1_41D7_1E225B13FCA3.text = Bees, Rede Ideal e Scantech
+questionOption_CE628F6B_EABF_D391_41EB_F9340CB8D3D2.text = Bees, Geladeiras e Caixas
+questionOption_CF9A6F35_EABE_53F1_41E2_37C87693F344.text = Share Ambev, Condições de pagamento e Limite de crédito
+questionOption_F4341513_EAAA_57B1_41E3_33C2591B1BF5.text = Se nossos produtos estão corretamente precificados, com disponibilidade adequada e executados de acordo com o planograma 
+questionOption_F44CF7CB_EAAA_7291_41E2_66853A907611.text = Espaço total das gôndolas reservado às bebidas e se nossos produtos estão corretamente precificados 
+questionOption_F46159F1_EAAA_5E71_41A1_5A9B3CA882F0.text =  Se nossos produtos estão corretamente precificados e com disponibilidade adequada
+questionOption_F60DC934_EAA6_3FF7_41E3_429406EFF974.text = Se o cliente executou os Pontos Extras negociados pela Ambev usando o  SKU Foco
+questionOption_F62E026E_EAA6_CD93_41E8_96DB7213E0EE.text = Se o cliente executou os Pontos Extras com a cerveja mais barata da Ambev
+questionOption_F6EF2860_EAA6_5D8F_41DB_31DA81633880.text = Se o cliente executou os Pontos Extras negociados pela Ambev 
+questionOption_F88278CB_EA6A_3E91_41E3_086CFD4A3E8E.text = Preço (TTC)
+questionOption_F90289F5_EA6B_DE71_41CB_B5B19BA44B6E.text = As duas coisas 
+questionOption_F944D696_EA6B_F2B3_41C3_DC5DDB6388F1.text = A comunicação está bem feita reforçando os benefícios do retornável 
+questionOption_FE391CF2_E9DC_64B9_41E7_2463A845BAE0.text = Apenas as bebidas da concorrência
+questionOption_FEC2330B_E9DD_BD6F_41E0_7DC2C2F7F602.text = Apenas as bebidas Ambev
+questionOption_FEDC083A_E9DC_6BA9_41E3_833518072BA8.text = As bebidas Ambev e as da concorrência
+
+### Qualification
+calification_C760F932_EADA_3FF3_41D0_BBF61BAC2648.text = Você pode melhorar, hein?A sugestão é você fazer novamente o treinamento, ok?
+calification_C7612932_EADA_3FF3_41D5_722F42A35FA9.text = Mandou bem, hein? Mostrou que é um craque do PDV 360! Obrigado por sua participação!
+
+### Score Name
+score1.label = Pontos
+
+### Question
+question_C8390610_EAAA_358F_41E5_274601AF34FD.title = Tá na hora de checar o estoque de bebidas do PDV, seja ele refrigerado ou quente. O que você vai verificar aqui? 
+question_CA8C9F1F_EAAA_53B1_41CF_108E6CAB9A5E.title = Diz aí: você sabe quais são as áreas mais quentes para executar ponto extra em um PDV AS Rota?
+question_CBF87053_EAAE_CDB1_41E0_BE793A7969B6.title = Opa, agora vamos ver a geladeira! E aqui, o que você tem que analisar?
+question_CE05976A_EABE_7393_41D8_5DB0404CA76A.title = Ok, agora a gente chegou no escritório do cliente. Aqui você tem 3 focos para tratar com o cliente. Sabe dizer quais são?
+question_F4FD9363_EAA5_F391_41AE_A77200257EE2.title = Ok, hora de analisar as gôndolas de Cervejas e Nab (Não Alcoólicos)! O que você vai avaliar aqui?
+question_F6AA734D_EAA5_D391_4198_1D90FBA81D54.title = Agora vamos ver os pontos extras localizados na entrada do PDV. O que você tem que analisar aqui? 
+question_FBFA7AAD_EA66_5291_41E0_A5319CABCFB4.title = Ok, agora vamos dar uma olhada no local de troca do RGB. Você sabe o que precisa analisar aqui?
+question_FEB95DC1_E9DD_A4DA_41E3_0770DF50350F.title = Assim que entrar, analise o encarte do PDV, frente e verso. Quais produtos você deve checar? 
+
+### Question Screen
+quizQuestion_F8925EB7_E924_64A7_41BF_3D099B90AC98.ok = OK
+
+### Report Screen
+quizScore_F89D9EB8_E924_64A9_41DE_25B68E9C348C.questions = Questões
+quizScore_F89D9EB8_E924_64A9_41DE_25B68E9C348C.questionsCorrect = Correto
+quizScore_F89D9EB8_E924_64A9_41DE_25B68E9C348C.questionsIncorrect = Incorreto
+quizScore_F89D9EB8_E924_64A9_41DE_25B68E9C348C.repeat = Recomeçar
+quizScore_F89D9EB8_E924_64A9_41DE_25B68E9C348C.submitToLMS = Enviar
+quizScore_F89D9EB8_E924_64A9_41DE_25B68E9C348C.title = PONTUAÇÃO
+
+### Timeout Screen
+quizTimeout_F8913EB7_E924_64A7_41E6_38D4B912621A.repeat = Repeat
+quizTimeout_F8913EB7_E924_64A7_41E6_38D4B912621A.score = View Score
+quizTimeout_F8913EB7_E924_64A7_41E6_38D4B912621A.title = - TIMEOUT -

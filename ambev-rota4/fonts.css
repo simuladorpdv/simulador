@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Barlow Bold";
+   src: url("fonts/Barlow Bold.woff") format("woff"), url("fonts/Barlow Bold.eot") format("embedded-opentype"), url("fonts/Barlow Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Barlow Condensed Medium";
+   src: url("fonts/Barlow Condensed Medium.woff") format("woff"), url("fonts/Barlow Condensed Medium.eot") format("embedded-opentype"), url("fonts/Barlow Condensed Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Barlow Condensed Medium";
+   src: url("fonts/Barlow Condensed Medium Italic.woff") format("woff"), url("fonts/Barlow Condensed Medium Italic.eot") format("embedded-opentype"), url("fonts/Barlow Condensed Medium Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}

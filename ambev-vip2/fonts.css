@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Barlow Bold";
+   src: url("fonts/Barlow Bold.woff") format("woff"), url("fonts/Barlow Bold.eot") format("embedded-opentype"), url("fonts/Barlow Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Barlow Semi Condensed Bold";
+   src: url("fonts/Barlow Semi Condensed Bold.woff") format("woff"), url("fonts/Barlow Semi Condensed Bold.eot") format("embedded-opentype"), url("fonts/Barlow Semi Condensed Bold.ttf") format("truetype"), url("fonts/Barlow Semi Condensed Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}

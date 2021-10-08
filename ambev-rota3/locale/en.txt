@@ -1,0 +1,134 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 360 Rota
+
+## Skin
+
+### Multiline Text
+HTMLText_910D6ED1_8035_B609_41DB_35E9D4EC4CFB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;font-family:'Barlow Bold';"><B>Pontuação: {{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_910D6ED1_8035_B609_41DB_35E9D4EC4CFB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Barlow Bold';"><B>Pontuação: {{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_877A01CC_A78A_23A8_41D3_637AA8F889B5.label = Photo Album Ambev - PDV 360 Rota.00_03_58_00.Still010
+album_877A01CC_A78A_23A8_41D3_637AA8F889B5_0.label = Ambev - PDV 360 Rota.00_03_58_00.Still010
+album_90F50DCC_8309_2923_41D7_CDEED467E330.label = Photo Album 03
+album_90F50DCC_8309_2923_41D7_CDEED467E330_0.label = 03
+album_916384A3_830F_3F65_41A3_FB16D36DE8B7.label = Photo Album 02
+album_916384A3_830F_3F65_41A3_FB16D36DE8B7_0.label = 02
+album_9507F6D2_8307_1B27_41B8_2C710A8E905E.label = Photo Album 04
+album_9507F6D2_8307_1B27_41B8_2C710A8E905E_0.label = 04
+album_96D7422D_8307_1B7D_41C7_E715FB2CC415.label = Photo Album 05
+album_96D7422D_8307_1B7D_41C7_E715FB2CC415_0.label = 05
+album_9782F1A7_830F_396D_41BB_F3C3463500CF.label = Photo Album 01
+album_9782F1A7_830F_396D_41BB_F3C3463500CF_0.label = 01
+album_9BFACDDC_8319_2923_41C3_A0EA0D6A6799.label = Photo Album sinuca
+album_9BFACDDC_8319_2923_41C3_A0EA0D6A6799_0.label = sinuca
+album_9FA8F06E_83F9_37FF_41C1_D5A063D12308.label = Photo Album 08
+album_9FA8F06E_83F9_37FF_41C1_D5A063D12308_0.label = 08
+album_A250C0AB_83FB_7765_41D9_95B14E8AE0FF.label = Photo Album 06
+album_A250C0AB_83FB_7765_41D9_95B14E8AE0FF_0.label = 06
+album_DF257A0A_8507_EB27_41C4_0C0590AE7964.label = Photo Album lett inicio2
+album_DF257A0A_8507_EB27_41C4_0C0590AE7964_0.label = lett inicio2
+media_89F86D6B_8017_BA19_41D0_4E1260E55E5B.label = 360 Rota Cena 23 - Clientes
+media_89F8C52A_8017_4A1B_41D9_68DE33532389.label = 360 Rota Cena 27 -cardápio
+media_89F9C214_8017_CE0F_41B7_BCEDD71BC191.label = 360 Rota Cena 11 - estoque gelado
+media_89F9F98F_8017_DA19_41D7_38BCD0AADED5.label = 360 Rota Cena 15 - estoque quente
+media_89FB29BD_8017_FA79_41D9_D3613095C04C.label = 360 Rota Cena 07 - Geladeira
+media_8AD59493_8016_CA09_41C9_6959C147666B.label = 360 Rota - Cena 02 - Rua
+media_8B645090_8017_CA07_41CF_068873F0620C.label = 360 Rota cena 3 - Fachada bar
+media_8BEB9CB6_8013_7A0B_41D9_82B4789C1065.label = 360 Rota Cena 19 - entretenimento
+media_A1C75D97_801D_BA09_418F_A86414B724F2.label = 360 Rota Cena 31 - plataforma digitais
+media_B01860CE_8308_F73F_418F_BF9F2B0E275D.label = 360 VIP - FUNDO FINAL_1
+panorama_B2B0C0D7_8308_F72D_41D1_4A3F990618D2.label = fundo quiz
+video_8BE450C0_8033_CA07_41D4_E5F8F1BC765C.label = Ambev - PDV 360 Rota cena 30 errado
+video_8BE4E0C9_8033_CA19_41D4_26456C842902.label = Ambev - PDV 360 Rota cena 35 correto
+video_8BE57C5F_8033_BA39_41BF_F47CF43A6A5B.label = Ambev - PDV 360 Rota cena 18 errado
+video_8BE5BBF1_8033_FE09_41C4_B5C1EDCB3DD0.label = Ambev - PDV 360 Rota cena 29 correto
+video_8BE6148A_8033_4A1B_41D7_EC8451CDBE43.label = Ambev - PDV 360 Rota cena 9 correto
+video_8BE6ACBF_8033_5A79_41D8_7E5D6CB95D2A.label = Ambev - PDV 360 Rota cena 13 correto
+video_8BE6D128_8033_4A07_416E_BA51443FA608.label = Ambev - PDV 360 Rota cena 14 errado
+video_8BE6E6BE_8033_B67B_41DB_32C2140C6BB6.label = Ambev - PDV 360 Rota cena 17 correto
+video_A9AD8655_A68A_60B8_41E4_5442C409C195.label = Ambev - PDV 360 Rota cena 22 errado
+video_A9AFC219_A68E_20A8_419E_73433486EC23.label = Ambev - PDV 360 Rota cena 6 errado
+video_B61338CF_A68E_E1A8_41CC_7F465CB183D2.label = Ambev - PDV 360 Rota cena 5 correto
+video_B6CA529C_A68A_21A8_41CF_40DB016BA0ED.label = Ambev - PDV 360 Rota cena 21 correto
+video_E3536E1E_850B_6B5F_41A6_B909416A5A1E.label = Ambev - PDV 360 Rota cena 33 correto
+video_E3BE7A3F_850B_2B5D_41D6_798666997110.label = Ambev - PDV 360 Rota cena 34 correto
+video_EDA16852_8509_F727_41DF_89537F2CE989.label = Ambev - PDV 360 Rota cena 10 errado
+video_EE76971A_8507_1927_41D9_461AEEA19C21.label = Ambev - PDV 360 Rota cena 26 errado
+video_F45FFA31_8507_6B65_41BF_3B89DBBDDAF6.label = Ambev - PDV 360 Rota cena 25 correto
+
+## E-Learning
+
+### Answer
+questionOption_99898237_8035_CE09_41D6_97048F361C5F.text = Ambev e não Ambev
+questionOption_998BEDD4_800E_DA0F_41D0_02D07AB1D1BF.text = Essas opções e muito mais!
+questionOption_999A4EA8_8035_F607_41C2_79A33E2638D3.text = Só da Ambev
+questionOption_99B279B2_800E_DA0B_41DC_2A3166C71F52.text = Presença no cardápio
+questionOption_99B27E35_8033_5609_41D5_C2E860D28351.text = A fiação e a manutenção
+questionOption_99BE0D12_8033_5A0B_41C2_3B25C265A538.text = O share Ambev e Não Ambev
+questionOption_99BE6C29_800E_DA19_41A9_B820A58B5BDC.text = Visibilidade da marca
+questionOption_99BF5524_8035_CA0F_41C1_107911FD23D4.text = Somente não Ambev
+questionOption_99DF01C5_8033_4A09_41DF_F52A87A5CB71.text = As latas de Guaraná Antarctica
+questionOption_99E8AAE4_8037_BE0F_41D6_6B6190F898CA.text = Abastecido só com nossos produtos
+questionOption_9A09ACD6_800D_7A0B_41DB_0B36BD95CA6D.text = Quantidade de prateleiras
+questionOption_9A0CEF1C_8037_B63F_41D2_7277EEBA8094.text = Ambos
+questionOption_9A189D9D_8037_BA39_41CF_9BFD38D1D12C.text = Bem posicionado
+questionOption_9A2D1846_800D_7A08_41C2_2C71289D6EB1.text = Margem
+questionOption_9A3E9B36_800D_7E0B_41B2_B24BC57540FA.text = Embalagens e volume ambev e não ambev
+questionOption_9AC3D41B_8015_4A39_41CF_9AE098357182.text = À conversa deles
+questionOption_9ACF6BDD_8015_5E39_41DE_8576945A1D9E.text = Que venda preço aderido e mantenha a escadinha de preços
+questionOption_9AD6B5C4_8015_4A0F_41D5_144F3F19B116.text = À roupa que estão usando
+questionOption_9AEA46CA_8015_561B_41D8_804F8C9B9F17.text = Que venda os produtos no preço que ele desejar
+questionOption_9AF3E15E_8015_4A3B_41D2_2C7E98AC1557.text = Às marcas e embalagens que estão consumindo
+questionOption_9AFA0929_8015_5A19_41DE_09CB69B87929.text = Que venda todas as marcas no mesmo preço
+questionOption_9B4A2507_801D_4A09_41C8_1020F2CF9DBA.text = O cliente tem internet
+questionOption_9B53B8E5_801D_5A09_41D1_E2F4369B7E86.text = O cliente tem entregador próprio
+questionOption_9B5A07AA_801D_561B_41C5_3C051A1233C2.text = O cliente possui algum sistema de delivery, tipo Ifood ou Rappi?
+
+### Qualification
+calification_8F512542_803D_CA0B_41A9_FE600A07786C.text = Você pode melhorar!Sugerimos que você faça novamente o treinamento!
+calification_8F514542_803D_CA0B_41D6_E6DBC0D911DC.text = Sensacional! Você é um craque do PDV 360! Obrigado por sua participação!
+
+### Score Name
+score1.label = Score 1
+
+### Question
+question_990D4F33_800F_B609_41DC_D70B592D748C.title = Bem vindos à área de consumo e entretenimento! O quê verificar aqui? \
+ \
+
+question_99528152_8035_CA08_419C_732C67D6F98D.title = Entrando no PDV você deve checar todos os materiais de execução:
+question_9955EA7E_800D_FEFB_41C1_FE2F64CADF47.title = E agora é hora do Estoque Quente.  \
+O que precisamos entender aqui?
+question_995A74A1_8032_CA09_41A8_0D5BC771B024.title = O estoque gelado é muito importante para o PDV e para nós. Verifique aqui:
+question_99970416_8037_4A0B_41D4_0E9D9DCF16D2.title = Cooler correto é:
+question_99CFB867_8017_5A09_41D5_D0C06C95164D.title = E vamos negociar! O que sugerir ao cliente?
+question_9A1B6427_8012_CA09_41D1_3C589683AA1E.title = Agora o cliente já está sentado e consumindo. Ao que devo prestar atenção?
+question_9A45896A_8013_7A1B_41C1_D1C99E5ECA69.title = E finalmente as plataformas digitais! Verifique se:
+
+### Question Screen
+quizQuestion_8ECB6CCF_8033_DA19_41C6_9D832D77180E.ok = OK
+
+### Report Screen
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.completion = Completed
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.downloadCSV = Download .csv
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.elapsedTime = Time
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.items = Items Found
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.questions = Questões
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.questionsCorrect = Corretas
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.questionsIncorrect = Incorretas
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.repeat = Recomeçar
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.submitToLMS = Submit
+quizScore_8EC90CCF_8033_DA19_41D9_EAB09D4EB3E4.title = Pontuação
+
+### Timeout Screen
+quizTimeout_8ECC5CCF_8033_DA19_41DA_58243CE33FB0.repeat = Repeat
+quizTimeout_8ECC5CCF_8033_DA19_41DA_58243CE33FB0.score = View Score
+quizTimeout_8ECC5CCF_8033_DA19_41DA_58243CE33FB0.title = - TIMEOUT -
